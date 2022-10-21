@@ -6,7 +6,7 @@ Execute the script by running the main **setup.sh** as an elevated/power user. O
 > ./setup.sh
 
 
-## Bucket List:
+## Bucket List
 [ ] Add interactions to remove/add programs.
 <br />
 [ ] Multi Linux Support (Debian/Arch/Etc)
