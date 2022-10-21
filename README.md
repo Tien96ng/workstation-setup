@@ -7,6 +7,6 @@ Execute the script by running the main **setup.sh** as an elevated/power user. O
 
 
 ## Bucket List:
-<input type="checkbox" /> Add interactions to remove/add programs.
+[ ] Add interactions to remove/add programs.
 <br />
-<input type="checkbox" /> Multi Linux Support (Debian/Arch/Etc)
+[ ] Multi Linux Support (Debian/Arch/Etc)
